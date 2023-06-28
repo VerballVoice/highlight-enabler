@@ -1,0 +1,13 @@
+{
+  "name": "highlights-enabler",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
